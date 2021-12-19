@@ -1,0 +1,58 @@
+// NOTE: Only a dummy file (used in brainsatplay-platform). Must integrate with the system still.
+
+[
+    // -------------------- Templates -------------------- 
+    {
+        name: 'Multiplayer', 
+        devices: ["EEG"],
+        author: "Garrett Flynn",
+        description: "Get started building a multiplayer neurofeedback app!",
+        categories: ["learn", "templates"],
+        zip: 'https://brainsatplay.com/multiplayer/Archive.zip',
+        link: 'https://brainsatplay.com/multiplayer' // Fallback
+    },
+
+    // -------------------- Examples -------------------- 
+    {
+        name: "Blink",
+        devices: ["EEG"],
+        author: "Garrett Flynn",
+        description: "A staring contest (with yourself...)",
+        categories: ["train"],
+        image: 'https://github.com/brainsatplay/blink/blob/main/app/img/feature.png?raw=true', // Github Image Example
+        zip: 'https://brainsatplay.com/blink/app.zip', // Github Pages Zip Example
+        link: 'https://brainsatplay.com/blink' // Fallback
+    },
+
+    // -------------------- Community Contributions -------------------- 
+    
+    {
+        name: 'Derpy Frog', 
+        devices: ["EEG"],
+        author: "Autumn Auriel",
+        description: "Derp derp derp.",
+        categories: ["play"],
+        image: 'https://github.com/autumnauriel/FrogGame/blob/main/app/assets/feature.png?raw=true', // Github Image Example
+        zip: 'https://autumnauriel.github.io/FrogGame/app.zip',
+        link: 'https://autumnauriel.github.io/FrogGame' // Fallback
+    },
+
+    {
+        name: "Unity Template",
+        devices: ["EEG"],
+        author: "Juris Zebneckis",
+        description: "",
+        categories: [],
+        link: 'https://brainsatplay.com/unity'
+    },
+
+    {
+        name: "P300 Demo",
+        devices: ["EEG"],
+        author: "Eli Kinney-Lang",
+        description: "",
+        categories: [],
+        link: 'https://brainsatplay.com/unity-p300'
+    }, // unity
+
+]
