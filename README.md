@@ -13,8 +13,10 @@
 - [Release Notes](https://github.com/brainsatplay/brainsatplay/releases)
 
 ### Libraries
-> Note: Our template TypeScript API for starting full-stack projects can be referenced [here](https://github.com/brainsatplay/template).
+### Templates
+- [Full-Stack TypeScript Template](https://github.com/brainsatplay/template)
 
+### Contributions
 - [Data Capture and Streams API](https://github.com/brainsatplay/datastreams-api)
     - Acquire real-time data from the browser
 - [DevBuild](https://github.com/brainsatplay/dev-build)
@@ -25,26 +27,41 @@
 - [Websocket Live Server](https://github.com/brainsatplay/websocketliveserver)
     - Generic server for live, bi-directional communication with clients
 ## Devices
-> **Note:** Add a reference to your app in our `devices.js` file to include it in our device directory.
 
+> **Note:** Add a reference to your app in our `devices.js` file to include it in our device directory!
+
+### Templates
+- [Device Template](https://github.com/brainsatplay/device)
+
+### Contributions
 Coming soon...
 
 
 ## Apps
-> **Note:** Add a reference to your app in our `apps.js` file to include it in our app directory.
-
+> **Note:** Add a reference to your app in our `apps.js` file to include it in our app directory!
+### Templates
 - [Blink](https://github.com/brainsatplay/blink)
-- [Derpy Frog](https://github.com/autumnauriel/FrogGame)
 - [Multiplayer](https://github.com/brainsatplay/multiplayer)
 - [Unity P300 Demo](https://github.com/brainsatplay/unity-p300)
 - [Unity Template](https://github.com/brainsatplay/unity)
 
-## Plugins
-> **Note:** Add a reference to your plugin in our `plugins.js` file to include it in our plugin directory.
+### Contributions
+- [Derpy Frog](https://github.com/autumnauriel/FrogGame)
 
+## Plugins
+> **Note:** Add a reference to your plugin in our `plugins.js` file to include it in our plugin directory!
+
+### Templates
+Coming soon...
+
+### Contributions
 Coming soon...
 
 ## Extensions
-> **Note:** Add a reference to your extension in our `extensions.js` file to include it in our extension directory.
+> **Note:** Add a reference to your extension in our `extensions.js` file to include it in our extension directory!
 
+### Templates
+Coming soon...
+
+### Contributions
 Coming soon...
