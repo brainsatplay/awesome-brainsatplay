@@ -12,6 +12,18 @@
 - [Github Repo](https://github.com/brainsatplay/brainsatplay)
 - [Release Notes](https://github.com/brainsatplay/brainsatplay/releases)
 
+### Libraries
+> Note: Our template TypeScript API for starting full-stack projects can be referenced [here](https://github.com/brainsatplay/template).
+
+- [Data Capture and Streams API](https://github.com/brainsatplay/datastreams-api)
+    - Acquire real-time data from the browser
+- [DevBuild](https://github.com/brainsatplay/dev-build)
+    - Custom build tool
+- [GPU.js Utils](https://github.com/brainsatplay/gpujsutils)
+- [Magic Worker](https://github.com/brainsatplay/MagicWorker)
+    -Multithreaded web applications
+- [Websocket Live Server](https://github.com/brainsatplay/websocketliveserver)
+    - Generic server for live, bi-directional communication with clients
 ## Devices
 > **Note:** Add a reference to your app in our `devices.js` file to include it in our device directory.
 
