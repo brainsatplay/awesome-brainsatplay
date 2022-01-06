@@ -47,6 +47,7 @@ Coming soon...
 
 ### Contributions
 - [Derpy Frog](https://github.com/autumnauriel/FrogGame)
+- [Kerl](https://github.com/ben-baqa/Kerl-Applet) (in progress)
 
 ## Plugins
 > **Note:** Add a reference to your plugin in our `plugins.js` file to include it in our plugin directory!
