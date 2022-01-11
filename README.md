@@ -14,7 +14,7 @@
 
 ### Libraries
 ### Templates
-- [Full-Stack TypeScript Template](https://github.com/brainsatplay/template)
+- [Full-Stack TypeScript Library](https://github.com/brainsatplay/library)
 
 ### Contributions
 - [Data Capture and Streams API](https://github.com/brainsatplay/datastreams-api)
@@ -42,6 +42,7 @@ Coming soon...
 ### Templates
 - [Blink](https://github.com/brainsatplay/blink)
 - [Multiplayer](https://github.com/brainsatplay/multiplayer)
+- [PWA](https://github.com/brainsatplay/pwa)
 - [Unity P300 Demo](https://github.com/brainsatplay/unity-p300)
 - [Unity Template](https://github.com/brainsatplay/unity)
 
