@@ -12,7 +12,7 @@
 - [Github Repo](https://github.com/brainsatplay/brainsatplay)
 - [Release Notes](https://github.com/brainsatplay/brainsatplay/releases)
 
-### Libraries
+## Libraries
 ### Templates
 - [Full-Stack TypeScript Library](https://github.com/brainsatplay/library)
 
