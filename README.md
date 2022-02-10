@@ -28,7 +28,9 @@
     - Generic server for live, bi-directional communication with clients
 ## Devices
 
-> **Note:** Add a reference to your app in our `devices.js` file to include it in our device directory!
+> **Note:** Add a reference to your device in our `devices.js` file to include it in our device directory!
+- [HEGduino](https://github.com/brainsatplay/hegduino)
+- [Muse](https://github.com/brainsatplay/muse)
 
 ### Templates
 - [Device Template](https://github.com/brainsatplay/device)
