@@ -12,6 +12,10 @@
 - [Github Repo](https://github.com/brainsatplay/brainsatplay)
 - [Release Notes](https://github.com/brainsatplay/brainsatplay/releases)
 
+## Proposals
+- [VSCode Extension](https://github.com/brainsatplay/brainsatplay-vscode)
+- [Chrome Extension](https://github.com/brainsatplay/brainsatplay-chrome)
+
 ## Libraries
 ### Templates
 - [Full-Stack TypeScript Library](https://github.com/brainsatplay/library)
