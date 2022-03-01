@@ -1,5 +1,5 @@
-# Awesome brainsatplay.js
-> A curated list of awesome things related to brainsatplay.js
+# Awesome Brains@Play
+> A curated list of awesome things related to Brains@Play
 
 - [Resources](#resources)
 - [Devices](#devices)
@@ -21,6 +21,7 @@
 - [Full-Stack TypeScript Library](https://github.com/brainsatplay/library)
 
 ### Contributions
+- [brainsatplay](https://github.com/brainsatplay/brainsatplay)
 - [Data Capture and Streams API](https://github.com/brainsatplay/datastreams-api)
     - Acquire real-time data from the browser
 - [DevBuild](https://github.com/brainsatplay/dev-build)
