@@ -1,5 +1,11 @@
-# Awesome Brains@Play
-> A curated list of awesome things related to Brains@Play
+<div align="center">
+    <img width="320" src="https://www.chartjs.org/media/awesome.svg" alt="Awesome Chart.js">
+</div>
+
+# Awesome Brains@Play 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+> A curated list of awesome things related to [Brains@Play](https://github.com/brainsatplay/project)
 
 - [Resources](#resources)
 - [Devices](#devices)
@@ -9,8 +15,8 @@
 
 ## Resources
 ### Official Resources
-- [Github Repo](https://github.com/brainsatplay/brainsatplay)
-- [Release Notes](https://github.com/brainsatplay/brainsatplay/releases)
+- [Github Repo](https://github.com/brainsatplay/project)
+- [Release Notes](https://github.com/brainsatplay/project/releases)
 
 ## Proposals
 - [VSCode Extension](https://github.com/brainsatplay/brainsatplay-vscode)
@@ -29,7 +35,7 @@
 - [GPU.js Utils](https://github.com/brainsatplay/gpujsutils)
 - [Magic Worker](https://github.com/brainsatplay/MagicWorker)
     -Multithreaded web applications
-- [Websocket Live Server](https://github.com/brainsatplay/websocketliveserver)
+- [Websocket Live Server](https://github.com/brainsatplay/liveserver)
     - Generic server for live, bi-directional communication with clients
 ## Devices
 
