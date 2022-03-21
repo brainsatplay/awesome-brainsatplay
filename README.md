@@ -1,10 +1,5 @@
-<div align="center">
-    <img width="320" src="https://www.chartjs.org/media/awesome.svg" alt="Awesome Chart.js">
-</div>
 
 # Awesome Brains@Play 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
 > A curated list of awesome things related to [Brains@Play](https://github.com/brainsatplay/project)
 
 - [Resources](#resources)
