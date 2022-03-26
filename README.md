@@ -23,15 +23,14 @@
 
 ### Contributions
 - [brainsatplay](https://github.com/brainsatplay/brainsatplay)
+    - High-performance computing on real-time data streams.
 - [Data Capture and Streams API](https://github.com/brainsatplay/datastreams-api)
     - Acquire real-time data from the browser
 - [DevBuild](https://github.com/brainsatplay/dev-build)
     - Custom build tool
 - [GPU.js Utils](https://github.com/moothyknight/gpujsutils)
 - [Magic Worker](https://github.com/brainsatplay/MagicWorker)
-    -Multithreaded web applications
-- [Live Server](https://github.com/brainsatplay/liveserver)
-    - Generic server for live, bi-directional communication with clients
+    - Multithreaded web applications
 ## Devices
 
 > **Note:** Add a reference to your device in our `devices.js` file to include it in our device directory!
