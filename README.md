@@ -14,6 +14,20 @@
 - [Release Notes](https://github.com/brainsatplay/project/releases)
 
 ## Proposals
+### Data Standards
+- [easynwb](https://github.com/garrettmflynn/easynwb)
+    - Simple wrapper for [WebNWB](https://github.com/brainsatplay/webnwb)
+- [bids-standard](https://github.com/garrettmflynn/bids-standard)
+    - A Web API for the Brain Imaging Data Structure (BIDS)
+- [dandi](https://github.com/garrettmflynn/dandi)
+    - A Web API for the Distributed Archives for Neurophysiology Data Integration (DANDI)
+### Analysis Tools
+- [hightime](https://github.com/brainsatplay/hightime)
+    - High-performance time series analysis on the browser
+- [ssvep](https://github.com/garrettmflynn/ssvep)
+    - A generic SSVEP implementation for the browser
+
+### Apps
 - [VSCode Extension](https://github.com/brainsatplay/brainsatplay-vscode)
 - [Chrome Extension](https://github.com/brainsatplay/brainsatplay-chrome)
 
