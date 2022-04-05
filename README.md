@@ -51,6 +51,7 @@
 - [Ganglion](https://github.com/garrettmflynn/ganglion)
 - [HEGduino](https://github.com/garrettmflynn/hegduino)
 - [Muse](https://github.com/garrettmflynn/muse)
+- [Teensyduino](https://github.com/garrettmflynn/teensy)
 
 ### Templates
 - [Device Template](https://github.com/brainsatplay/device)
