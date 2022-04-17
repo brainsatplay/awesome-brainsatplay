@@ -40,17 +40,11 @@
 - [Magic Worker](https://github.com/brainsatplay/MagicWorker)
     - Multithreaded web applications
 ## Devices
+- [Device Template](https://github.com/brainsatplay/device)
 - [Ganglion](https://github.com/garrettmflynn/ganglion)
 - [HEGduino](https://github.com/garrettmflynn/hegduino)
 - [Muse](https://github.com/garrettmflynn/muse)
 - [Teensyduino](https://github.com/garrettmflynn/teensy)
-
-### Templates
-- [Device Template](https://github.com/brainsatplay/device)
-
-### Contributions
-Coming soon...
-
 
 ## Apps
 - [Blink](https://github.com/brainsatplay/blink)
