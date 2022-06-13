@@ -59,3 +59,9 @@
 - [Multiplayer](https://github.com/brainsatplay/multiplayer)
 - [Unity P300 Demo](https://github.com/brainsatplay/unity-p300)
 - [Unity Template](https://github.com/brainsatplay/unity)
+
+
+## Plugins
+> **Note:** If you have a plugin you'd like to share with the community, make sure to submit a pull request with an addition to this repo's `plugins.js` file!
+
+- [Sine Wave](https://github.com/brainsatplay/plugin)
